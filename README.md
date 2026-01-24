@@ -37,6 +37,16 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 
 ---
+## Tabulation
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d572989f-1760-423b-ae42-1b61764346bf" />
 
+## Graph
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4931031e-c47c-410c-ae78-accd26e7fa9c" />
+
+
+## Description
+As the fiber span becomes longer, losses and dispersion spread each transmitted pulse and warp its shape. Over distance, this spreading makes neighboring symbols overlap, which shrinks the eye opening in the eye diagram. The closing eye indicates stronger intersymbol interference and a rising chance of bit errors, ultimately lowering the quality and reliability of the communication system.
+
+## Result
+Thus, the optiperformer software had been installed and a sample file had been run sucessfully.
 
